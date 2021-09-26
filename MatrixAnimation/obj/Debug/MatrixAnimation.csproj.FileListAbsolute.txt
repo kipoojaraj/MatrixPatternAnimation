@@ -1,0 +1,10 @@
+E:\MatrixAnimation\bin\Debug\MatrixAnimation.exe.config
+E:\MatrixAnimation\bin\Debug\MatrixAnimation.exe
+E:\MatrixAnimation\bin\Debug\MatrixAnimation.pdb
+E:\MatrixAnimation\obj\Debug\MatrixAnimation.csproj.AssemblyReference.cache
+E:\MatrixAnimation\obj\Debug\MatrixAnimation.Properties.Resources.resources
+E:\MatrixAnimation\obj\Debug\MatrixAnimation.csproj.GenerateResource.cache
+E:\MatrixAnimation\obj\Debug\MatrixAnimation.csproj.CoreCompileInputs.cache
+E:\MatrixAnimation\obj\Debug\MatrixAnimation.exe
+E:\MatrixAnimation\obj\Debug\MatrixAnimation.pdb
+E:\MatrixAnimation\obj\Debug\MatrixAnimation.Form1.resources
